@@ -1,0 +1,11 @@
+{
+  "method": "post",
+  "header": {
+    "Content-Type": "application/json"
+  },
+  "url": "http://127.0.0.1:48101/test/post",
+  "body": {
+    "name": "calvin",
+    "age": 25
+  }
+}
